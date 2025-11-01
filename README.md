@@ -6,18 +6,17 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently learning **Python, HTML, CSS, and AutoCAD**
-- 🌱 Exploring **AI, Machine Learning, and Robotics**
-- 🎯 My goal: **To study at MIT and create impactful tech innovations**
+- 🔭 I’m deeply engaged in **Python, HTML, CSS**, and exploring other programming languages.
+- 🌱 Currently learning about **AI, Machine Learning, and Robotics**.
+- 🎯 My ultimate goal: **To create innovative technologies that change lives.**
 - 🥋 Fun fact: I’ve been practicing **Karate** since 2077 B.S.
-- 🐶 I have a lovely pet dog named **Jimmy**
-- 💬 Ask me about **Python, Problem-Solving, and Computer Science**
+- 💬 Ask me about **Python projects, backend-end development, and computer science concepts.**
 
 ---
 
 ### 🧠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,arduino,linux" />
 </p>
 
 ---
@@ -32,20 +31,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/anujrai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anujrai@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ Quote I Live By
-> “Dream big, work hard, stay humble, and make it happen.”
-
----
-
-### 🧩 Fun Section
-```python
-while True:
-    print("Keep coding, keep improving 💻🔥")
+  <a href="mailto:anujrai@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=wh
